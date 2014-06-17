@@ -1,4 +1,4 @@
-autonomous-nerf-blaster
+autonomous-dart-blaster
 =======================
 
-Repo for Arduino powered Nerf blaster
+Repo for Arduino powered dart blaster
